@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Just Party Decoration logo</title>
+  <desc id="desc">Circular logo with the letters J and P, a celebration party hat, and the text Just Party Decoration.</desc>
+  <defs>
+    <style>
+      .brand-text { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+      .tiny { font-family: Georgia, 'Times New Roman', serif; }
+    </style>
+  </defs>
+
+  <rect width="900" height="900" fill="#bf0f20"/>
+  <circle cx="450" cy="450" r="390" fill="none" stroke="#d7a335" stroke-width="28"/>
+  <circle cx="450" cy="450" r="350" fill="#f3efe8"/>
+
+  <g fill="#d7b340" opacity="0.9">
+    <path d="M204 175 L214 145 L224 175 Z"/>
+    <path d="M290 134 L300 104 L310 134 Z"/>
+    <path d="M644 138 L654 108 L664 138 Z"/>
+    <path d="M710 182 L720 152 L730 182 Z"/>
+    <path d="M612 278 L622 248 L632 278 Z"/>
+    <path d="M275 278 L285 248 L295 278 Z"/>
+  </g>
+
+  <g transform="translate(440 110)">
+    <path d="M0 0 L65 0 L80 18 L80 55 L62 55 L62 94 L48 94 L48 55 L0 55 Z" fill="#f5f6f0" stroke="#d7d4cc" stroke-width="3"/>
+    <path d="M0 0 L65 0 L55 20 L10 20 Z" fill="#f8f4ee"/>
+    <path d="M10 18 L55 18 L80 50 L0 50 Z" fill="#f3efe9"/>
+    <path d="M8 18 L52 18 L44 10 L18 10 Z" fill="#f4f2ee"/>
+    <path d="M18 18 L44 18 L48 50 L14 50 Z" fill="#efefef" opacity="0.5"/>
+    <path d="M36 0 L45 0 L49 18 L32 18 Z" fill="#f3f1ee"/>
+    <path d="M40 0 L35 12 L18 18 L0 26 L12 18 L28 12 Z" fill="#f5f4f1"/>
+    <path d="M40 0 L46 10 L60 18 L80 25 L60 22 L43 12 Z" fill="#f5f4f1"/>
+    <path d="M32 12 L48 12 L52 20 L28 20 Z" fill="#f5f2ef"/>
+    <path d="M26 0 L30 28 L22 28 L18 0 Z" fill="#f6f3f0"/>
+    <path d="M16 10 L36 0 L40 18 L18 18 Z" fill="#f6f2ef"/>
+    <path d="M40 12 L60 0 L65 18 L46 18 Z" fill="#f7f2ef"/>
+    <path d="M56 30 L66 25 L70 36 L60 41 Z" fill="#c8d9df"/>
+    <path d="M50 30 L54 42 L52 58 L42 52 Z" fill="#f8f4ee"/>
+    <path d="M46 26 L52 33 L48 39 L42 32 Z" fill="#f2f0eb"/>
+    <path d="M58 27 L64 33 L61 40 L55 34 Z" fill="#f0efe8"/>
+    <path d="M60 38 L66 39 L66 48 L60 47 Z" fill="#d7d6d0"/>
+  </g>
+
+  <g transform="translate(170 180)" fill="#bf112d">
+    <path d="M188 0 L242 0 L242 40 L286 40 L286 120 L220 120 L220 350 L188 350 Z"/>
+    <path d="M188 0 L242 0 L242 40 L188 40 Z" fill="#dc2d4a" opacity="0.9"/>
+    <path d="M286 40 L286 120 L350 120 L350 350 L390 350 L390 120 L390 40 Z" fill="#0c1c46"/>
+    <path d="M286 40 L350 40 L350 120 L286 120 Z" fill="#12295b"/>
+    <path d="M208 135 L304 135 L304 165 L208 165 Z" fill="#f9f5ef" opacity="0.26"/>
+    <path d="M345 135 L371 135 L371 165 L345 165 Z" fill="#f9f5ef" opacity="0.2"/>
+    <path d="M188 350 L390 350 L390 382 L188 382 Z" fill="#0d1735"/>
+  </g>
+
+  <g transform="translate(420 180)">
+    <path d="M128 0 L214 0 L214 40 L168 40 L168 350 L128 350 Z" fill="#0c1c46"/>
+    <path d="M128 0 L155 0 L155 350 L128 350 Z" fill="#1c2a56"/>
+    <path d="M214 0 L242 0 L242 350 L214 350 Z" fill="#09162d"/>
+    <path d="M128 40 L168 40 L168 98 L128 98 Z" fill="#183059"/>
+  </g>
+
+  <text x="440" y="600" class="brand-text" font-size="115" fill="#12183a" text-anchor="middle" letter-spacing="1">JUST PARTY</text>
+  <text x="440" y="700" class="brand-text" font-size="96" fill="#12183a" text-anchor="middle" letter-spacing="2">DECORATION</text>
+</svg>
