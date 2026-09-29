@@ -24,10 +24,11 @@
     });
   });
 
-  // Highlight active page link
-  const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+  // Highlight active page link (supports both /about and /about.html)
+  const currentPath = window.location.pathname.split('/').pop().replace(/\.html$/, '') || 'index';
   document.querySelectorAll('.navbar__links a, .navbar__mobile a').forEach(link => {
-    if (link.getAttribute('href') === currentPage) link.classList.add('active');
+    const linkPath = (link.getAttribute('href') || '').split('/').pop().replace(/\.html$/, '') || 'index';
+    if (linkPath === currentPath) link.classList.add('active');
   });
 })();
 
