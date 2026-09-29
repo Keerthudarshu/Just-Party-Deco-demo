@@ -1,0 +1,10 @@
+{
+  "description": "Showcase a vibrant multi-page website for a Bengaluru-based party decoration business, featuring services, gallery, and easy contact options to enhance event planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
